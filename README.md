@@ -308,19 +308,11 @@ Developed using:
     ├── src/
     │   └── main.cpp              # Main application source
     |
-    ├── include/                  # Header files
-    |
-    ├── lib/                      # Custom libraries
-    |
-    ├── test/                     # Unit tests
-    |
     ├── platformio.ini            # PlatformIO configuration
     |
     ├── README.md                 # Documentation
     |
-    ├── LICENSE                   # MIT License
-    |
-    └── .gitignore
+    └── LICENSE                   # MIT License   
 
 ---
 
